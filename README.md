@@ -10,8 +10,6 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
- 
  🌱 I’m currently learning **Java**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
